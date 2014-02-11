@@ -1,0 +1,19 @@
+Mirror Moon EP Player Guide README
+==================================
+This guide was created to pull together the collective knowlege of the community surrounding *Mirror Moon EP.*  
+
+Contributing to the Guide
+-------------------------
+Contributions to the guide are always welcome! If you have something you'd like to add (or find a typo or see something that's just plain wrong) go ahead and fork the project, (we're using the Fork-and-Pull strategy here) make your changes, and create a pull request. The odds are that your changes will be accepted to the guide.
+
+If you aren't familiar with Git or Github, you can always comment on the guide's Steam Page and I'll try to include your contribution.
+
+Updating the Guide on Steam
+---------------------------
+Although I'll certainly try to keep the Steam version of this guide as updated as possible, you should always consider the version on Github to be the most up-to-date.
+
+Credits and Contact Info
+------------------------
+Created by Ben Wurth  
+[Ben.Wurth@gmail.com](mailto:ben.wurth@gmail.com)  
+Steam: TheFeanor
