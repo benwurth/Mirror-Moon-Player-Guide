@@ -3,13 +3,18 @@ Mirror Moon EP Player Guide
 
 Introduction
 ------------
-This guide is meant to be a repository of the collective knowledge of the *Mirror Moon EP* community. Although it is managed by only a single person, [myself](http://steamcommunity.com/id/BenWurth), it is effectively written by the community.
+This guide is meant to be a repository of the collective knowledge of the *Mirror Moon EP* community. Although it is managed by only a single person, [myself](http://steamcommunity.com/id/BenWurth), it is effectively a work of the players and fans of *Mirror Moon*.
 
 ###Contributing to the guide
 Contributions to the guide are always welcome! If you would like to make a contribution, check out the guide's [Github repository](https://github.com/benwurth/Mirror-Moon-Player-Guide), or just leave a comment.
 
 Spaceship Controls
 ------------------
+![Your Cockpit](images/main_cockpit_screenshot.jpg "Cockpit")  
+*Your cockpit has a lot of complex-looking and unlabled controls. Luckily, you only need to become familiar with a few in order to perform basic navigation tasks.*  
+
+![The light switch](images/01.png)  
+This is probably the very first control you'll come into contact with in *Mirror Moon.* Its purpose is very simple: it turns on the lights. If you press it again, it turns them off.  
 
 Flying Your Spaceship
 ---------------------
