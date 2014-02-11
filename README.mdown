@@ -1,5 +1,6 @@
 Mirror Moon EP Player Guide README
 ==================================
+![Guide Icon](images/guide_icon.png)  
 This guide was created to pull together the collective knowlege of the community surrounding *Mirror Moon EP.*  
 
 Contributing to the Guide
