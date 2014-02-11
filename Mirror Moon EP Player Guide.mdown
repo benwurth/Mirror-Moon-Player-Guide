@@ -5,8 +5,8 @@ Introduction
 ------------
 This guide is meant to be a repository of the collective knowledge of the *Mirror Moon EP* community. Although it is managed by only a single person, [myself](http://steamcommunity.com/id/BenWurth), it is effectively written by the community.
 
-###Contributing to the guide.
-Contributions to the guide are always welcome! If you would like to make a contribution, check out the guide's [Github repository.]()
+###Contributing to the guide
+Contributions to the guide are always welcome! If you would like to make a contribution, check out the guide's [Github repository](https://github.com/benwurth/Mirror-Moon-Player-Guide), or just leave a comment.
 
 Spaceship Controls
 ------------------
