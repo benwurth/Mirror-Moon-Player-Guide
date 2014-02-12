@@ -10,11 +10,17 @@ Contributions to the guide are always welcome! If you would like to make a contr
 
 Spaceship Controls
 ------------------
-![Your Cockpit](images/main_cockpit_screenshot.jpg "Cockpit")  
+![Your Cockpit](images/main_cockpit_screenshot01.jpg "Cockpit")  
 *Your cockpit has a lot of complex-looking and unlabled controls. Luckily, you only need to become familiar with a few in order to perform basic navigation tasks.*  
 
 ![The light switch](images/01.png)  
-This is probably the very first control you'll come into contact with in *Mirror Moon.* Its purpose is very simple: it turns on the lights. If you press it again, it turns them off.  
+1. This is probably the very first control you'll come into contact with in *Mirror Moon.* Its purpose is very simple: it turns on the cabin lights. If you press it again, it turns them off.  
+
+![Backlight Switch](images/02.png)  
+2. These switches turn on the backlights to the various screens.
+
+![Sound switches](images/03.png)  
+3. These buttons toggle the sounds on the spacecraft. The top one toggles the sound effects. The bottom one toggles the music.
 
 Flying Your Spaceship
 ---------------------
