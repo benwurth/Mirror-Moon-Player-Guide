@@ -13,14 +13,30 @@ Spaceship Controls
 ![Your Cockpit](images/main_cockpit_screenshot01.jpg "Cockpit")  
 *Your cockpit has a lot of complex-looking and unlabled controls. Luckily, you only need to become familiar with a few in order to perform basic navigation tasks.*  
 
-![The light switch](images/01.png)  
+![The Light Switch](images/01.png)  
 1. This is probably the very first control you'll come into contact with in *Mirror Moon.* Its purpose is very simple: it turns on the cabin lights. If you press it again, it turns them off.  
 
 ![Backlight Switch](images/02.png)  
 2. These switches turn on the backlights to the various screens.
 
-![Sound switches](images/03.png)  
+![Sound Switches](images/03.png)  
 3. These buttons toggle the sounds on the spacecraft. The top one toggles the sound effects. The bottom one toggles the music.
+
+![Load Button](images/04.png)  
+4. Loads the floppy disk and starts the level. The first value on the display is the completion of current disk side, which is the second value on the display.
+
+I'm not sure what the significance of the third value on the display is. If anyone has any insight into what it means, please let me know!
+
+![Floppy Disk](images/05.png)  
+5. Clicking on this changes the current side between "A" and "B". Side "A" seems to just be the tutorial level. Side "B" 
+
+![Cartridge](images/06.png)  
+6. The cartridge needs to be on the left-hand port to access the level and the right-hand port to travel.
+
+![Planet Name Readout](images/07.png)  
+7. This displays the name of the selected planet. If there is a forward slash in the planet's name (like in the picture) that means that the planet is undiscovered. If you travel to the planet and solve its puzzle, you will get the opportunity to name the planet. *(I named this one FORD, after Ford Prefect of "Hitchhiker's Guide to the Galaxy" fame.)*
+
+![Large Readout](images/08.png)
 
 Flying Your Spaceship
 ---------------------
