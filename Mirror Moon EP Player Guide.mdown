@@ -36,7 +36,18 @@ I'm not sure what the significance of the third value on the display is. If anyo
 ![Planet Name Readout](images/07.png)  
 7. This displays the name of the selected planet. If there is a forward slash in the planet's name (like in the picture) that means that the planet is undiscovered. If you travel to the planet and solve its puzzle, you will get the opportunity to name the planet. *(I named this one FORD, after Ford Prefect of "Hitchhiker's Guide to the Galaxy" fame.)*
 
-![Large Readout](images/08.png)
+![Large Readout](images/08.png)  
+8. This readout displays information regarding your ship and the currently selected planet. The first line displays your ship's position. The second line displays the position of the currently selected planet. 
+
+The third line is the distance between your current position and the position of the selected planet as measured in [parsecs](#parsec_definition) (**pc**).
+
+The fourth line is the time it would take (in minutes:seconds) to travel from your current position to the targeted planet at your selected speed. While you are traveling, this value will continue to update, but because of the difference in fuel level from before and after your jump, it may not be accurate during travel.
+
+The fifth line is unknown at this time. If you know what this line does, please let me know and I'll add it to the guide.
+
+The sixth line is your ETA while traveling.
+
+The seventh line is unknown at this time. If you know what this line does, please let me know and I'll add it to the guide.  
 
 Flying Your Spaceship
 ---------------------
@@ -49,3 +60,12 @@ Structures
 
 Glossary of Terms
 -----------------
+<dl>
+	<dt id="parsec_definition">Parsec</dt>
+	<dd><em><a href="http://en.wikipedia.org/wiki/Parsec">From Wikipedia, the free encyclopedia:</a></em>
+		<p>A <strong>parsec</strong> (symbol: <strong>pc</strong>) is an astronomical unit of distance derived by the theoretical annual parallax (or heliocentric parallax) of one arc second, and is found as the inverse of that measured parallax. In astronomical terms, parallaxes are the apparent measured difference in the position of a star as seen from Earth and another hypothetical observer at the Sun. As the distance is the inverse of the parallax, the smaller the measured parallax the larger the celestial object's distance.</p> 
+		<p><strong>One parsec equals about 3.26 light-years (30.9 trillion kilometres or 19.2 trillion miles).</strong> All known stars lie more than one parsec away, with Proxima Centauri showing the largest parallax of 0.7687 arcsec, making the distance 1.3009 parsecs (4.243 light years). Most of the visible stars in the nighttime sky lie within 500 parsecs of the Sun.</p>
+		<p>The parsec was introduced to make quick calculations of astronomical distances without the need for more complicated conversions, i.e. knowing the true speed of light to calculate light years. Parsec is named from the abbreviation of the parallax of one arcsecond, and was likely first suggested by British astronomer Herbert Hall Turner in 1913.</p>
+		<p>Usage of parsecs is preferred in astronomy and astrophysics, though popular science texts commonly use light-years, probably because it is much easier to understand the amount of time it takes light to travel from the source. Multiples of parsecs are commonly used for scales in the universe, including parsecs for the visible stars, kiloparsecs for galactic objects and megaparsecs for nearby and more distant galaxies.</p>
+	</dd>
+</dl>
